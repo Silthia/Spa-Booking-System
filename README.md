@@ -6,8 +6,6 @@ Track: Merged Track. DBMS 1 and SIA are one combined system with one defense. Gr
 
 ## Group roster and ownership matrix
 
-## Ownership Matrix
-
 | Member | GitHub username | Tables | Complete resource | Join report and type | Feature role |
 |---|---|---|---|---|---|
 | A - Joanna Joyce Caromayan | Joyce Moycee05 | roles, users, customers | Users | R1 Users with their roles (INNER JOIN) | Core |
